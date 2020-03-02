@@ -1,0 +1,17 @@
+{
+  "name": "tmijs-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.6",
+    "@babel/node": "^7.8.4",
+    "@babel/preset-env": "^7.8.6",
+    "fable-compiler": "^2.4.16",
+    "fable-splitter": "^2.1.12"
+  }
+}
